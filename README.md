@@ -14,7 +14,7 @@ Install boost
 $ brew install boost --with-python
 ```
 
-Install boost-pythohn
+Install boost-python
 ```bash
 $ brew install boost-python
 ```

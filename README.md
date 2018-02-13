@@ -19,3 +19,7 @@ Install boost-python
 $ brew install boost-python
 ```
 
+Install cmake
+```bash
+$ brew install cmake
+```
